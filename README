@@ -1,0 +1,2 @@
+This program will generate an array of random strings of a given length.
+It will take in two values: the size of the array and the number of random characters in each string.
